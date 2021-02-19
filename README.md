@@ -121,7 +121,7 @@ bot.launch()
 ```
 
 #### Another examples located in `/examples` folder (PRs welcome)
-Also, you may read comments in  [/lib/session.js](https://github.com/RealSpeaker/telegraf-session-local/blob/master/lib/session.js)
+Also, you may read comments in  [/source/index.ts](https://github.com/RealSpeaker/telegraf-session-local/blob/master/source/index.ts)
 
 #
 
